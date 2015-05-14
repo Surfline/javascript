@@ -637,7 +637,7 @@
     }
     ```
 
-  - Use "cuddled else" (aka 1TBS) braces for if-else blocks.
+  - Use "cuddled else" (aka [1TBS](http://en.wikipedia.org/wiki/Indent_style#Variant:_1TBS)) braces for if-else blocks.
 
     ```javascript
     // bad
